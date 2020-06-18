@@ -1,0 +1,363 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png",ATV
+http://tvku.live:8888/abi3/abi3/29899
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png",AXN
+http://tvku.live:8888/abi3/abi3/9
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
+http://tvku.live:8888/abi3/abi3/908
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme FHD
+http://tvku.live:8888/abi3/abi3/811
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png",CCM
+http://tvku.live:8888/abi3/abi3/2118
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",Celestial Movies
+http://tvku.live:8888/abi3/abi3/5
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",Cinema World
+http://tvku.live:8888/abi3/abi3/1194
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png",Cinemax ID
+http://tvku.live:8888/abi3/abi3/2156
+#EXTINF:-1 group-title="Movie" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png",Cinemax FHD
+http://tvku.live:8888/abi3/abi3/30185
+#EXTINF:-1 group-title="Movie" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png",Cinemax SD
+http://tvku.live:8888/abi3/abi3/26599
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png",FLIK HD
+http://tvku.live:8888/abi3/abi3/29592
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FMN_%28Forget_Me_Not%29_Channel.png/200px-FMN_%28Forget_Me_Not%29_Channel.png",FMN
+http://tvku.live:8888/abi3/abi3/11489
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png",FOX Action Movies FHD
+http://tvku.live:8888/abi3/abi3/1478
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png",FOX Action Movies HD
+http://tvku.live:8888/abi3/abi3/99
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png",FOX Action Movies HD Backup
+http://tvku.live:8888/abi3/abi3/979
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png",FOX Action Movies SD
+http://tvku.live:8888/abi3/abi3/1125
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png",FOX Crime FHD
+http://tvku.live:8888/abi3/abi3/3334
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png",FOX Crime HD
+http://tvku.live:8888/abi3/abi3/763
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png",FOX Crime SD
+http://tvku.live:8888/abi3/abi3/2257
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png",FOX Family Movies EN
+http://tvku.live:8888/abi3/abi3/1493
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png",FOX Family Movies ID
+http://tvku.live:8888/abi3/abi3/14994
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png",FOX HD
+http://tvku.live:8888/abi3/abi3/95
+#EXTINF:-1 group-title="Movie" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png",FOX Life HD
+http://tvku.live:8888/abi3/abi3/94
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png",FOX Movies FHD
+http://tvku.live:8888/abi3/abi3/1205
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png",FOX Movies HD
+http://tvku.live:8888/abi3/abi3/98
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png",FOX Movies HD Backup
+http://tvku.live:8888/abi3/abi3/978
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png",FX HD
+http://tvku.live:8888/abi3/abi3/776
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png",Galaxy Premium SD
+http://tvku.live:8888/abi3/abi3/29603
+#EXTINF:-1 group-title="Movie" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png",Galaxy SD
+http://tvku.live:8888/abi3/abi3/29604
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family HD
+http://tvku.live:8888/abi3/abi3/592
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family FHD
+http://tvku.live:8888/abi3/abi3/30184
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family SD
+http://tvku.live:8888/abi3/abi3/26598
+#EXTINF:-1 group-title="Movie" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",HBO FHD
+http://tvku.live:8888/abi3/abi3/1496
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO HD
+http://tvku.live:8888/abi3/abi3/210
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Hits FHD
+http://tvku.live:8888/abi3/abi3/11492
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits HD
+http://tvku.live:8888/abi3/abi3/591
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits SD
+http://tvku.live:8888/abi3/abi3/26596
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO SD
+http://tvku.live:8888/abi3/abi3/26595
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature FHD
+http://tvku.live:8888/abi3/abi3/1498
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature HD
+http://tvku.live:8888/abi3/abi3/873
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature SD
+http://tvku.live:8888/abi3/abi3/26597
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png",HITS FHD
+http://tvku.live:8888/abi3/abi3/1195
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png",Hits Movie FHD
+http://tvku.live:8888/abi3/abi3/957
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png",IMC
+http://tvku.live:8888/abi3/abi3/1483
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png",KIX HD
+http://tvku.live:8888/abi3/abi3/8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png",LifeTime FHD
+http://tvku.live:8888/abi3/abi3/866
+#EXTINF:-1 group-title="Movie" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png",Red By HBO HD
+http://tvku.live:8888/abi3/abi3/4832
+#EXTINF:-1 group-title="Movie" tvg-logo="https://imagehost.imageupload.net/2020/06/03/Sinema_Indonesia.png",Sinema Indonesia
+http://tvku.live:8888/abi3/abi3/3476
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png",Star Chinese Movies HD
+http://tvku.live:8888/abi3/abi3/780
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png",Star Chinese Movies Legend
+http://tvku.live:8888/abi3/abi3/1859
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png",Star World
+http://tvku.live:8888/abi3/abi3/381
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png",Thrill
+http://tvku.live:8888/abi3/abi3/4
+#EXTINF:-1 group-title="Movie" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_1.png",Vision Prime
+http://tvku.live:8888/abi3/abi3/26635
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png",Warner TV ID HD
+http://tvku.live:8888/abi3/abi3/1533
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png",Zee Bioskop
+http://tvku.live:8888/abi3/abi3/7
+#EXTINF:-1 group-title="Music",Channel V Int
+http://tvku.live:8888/abi3/abi3/766
+#EXTINF:-1 group-title="Music",i konser
+http://tvku.live:8888/abi3/abi3/29594
+#EXTINF:-1 group-title="Music" tvg-logo="https://fimgs.net/images/dizajneri/o.2508.jpg",MTV
+http://tvku.live:8888/abi3/abi3/281
+#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/902409324022128640/9vbFe5yn_400x400.jpg",MTV Base
+http://tvku.live:8888/abi3/abi3/291
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png",MTV Classic
+http://tvku.live:8888/abi3/abi3/289
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png",MTV Dance
+http://tvku.live:8888/abi3/abi3/288
+#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER_400x400.jpg",MTV Hits
+http://tvku.live:8888/abi3/abi3/287
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png",MTV LIVE HD
+http://tvku.live:8888/abi3/abi3/9110
+#EXTINF:-1 group-title="Music" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png",MTV Music
+http://tvku.live:8888/abi3/abi3/286
+#EXTINF:-1 group-title="Music" tvg-logo="http://online-red.tv/uploads/posts/2018-06/1529241449_nrj-hits-tv-1.png",NRJ Hits TV
+http://tvku.live:8888/abi3/abi3/29836
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Oneafricasmall.png",ONE African TV
+http://tvku.live:8888/abi3/abi3/1731
+#EXTINF:-1 group-title="Music",Prambors TV
+http://tvku.live:8888/abi3/abi3/1157
+#EXTINF:-1 group-title="Music" tvg-logo="http://originators.tv/views/img/clients/trace-africa.gif",Trace Africa
+http://tvku.live:8888/abi3/abi3/108
+#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/764931661947600897/PMysWXwp_400x400.jpg",Trace Mizki
+http://tvku.live:8888/abi3/abi3/109
+#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/809695962256052225/Ayc3Rv9A_400x400.jpg",Trace Naija
+http://tvku.live:8888/abi3/abi3/113
+#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/786944696505475073/7gO9m6Io_400x400.jpg",Trace Toca
+http://tvku.live:8888/abi3/abi3/111
+#EXTINF:-1 group-title="Music" tvg-logo="http://mx.trace.tv/img/TraceTrop/trace-tropical.jpg",Trace Tropical
+http://tvku.live:8888/abi3/abi3/112
+#EXTINF:-1 group-title="Music" tvg-logo="http://i2.wp.com/footprint2africa.com/wp-content/uploads/2017/03/Trace-Urban-Logo.jpg?fit=564%2C423",Trace Urban
+http://tvku.live:8888/abi3/abi3/106
+#EXTINF:-1 group-title="Music",Citra Dangdut
+http://tvku.live:8888/abi3/abi3/2207
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kj1qJmLBPlnAwIYO5pERJ6eZgyj.jpg",100 Million BC
+http://tvku.live:8888/movie/abi3/abi3/4042.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",Ad Astra - 2019
+http://tvku.live:8888/movie/abi3/abi3/3944.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30B2BNnBFl0YOKPIJpZnH310UWY.jpg",After We Leave - 2019
+http://tvku.live:8888/movie/abi3/abi3/26322.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VmUwzEQTfO09c9CHcNoAUUWQxU.jpg",Alien Outbreak - 2020
+http://tvku.live:8888/movie/abi3/abi3/25278.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7mUd9GpmCYV5qhkKGmiEerFK3i.jpg",Alien³ - 1992
+http://tvku.live:8888/movie/abi3/abi3/9319.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nORMXEkYEbzkU5WkMWMgRDJwjSZ.jpg",Aliens - 1986
+http://tvku.live:8888/movie/abi3/abi3/9320.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Av8ZPiMrxFq9XiOjZl0tkoq9Oo.jpg",Close Encounters of the Third Kind - 1977
+http://tvku.live:8888/movie/abi3/abi3/14788.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84Xz2Jh60tC3ICO1CY27wc0zwgC.jpg",Code 8  - 2019
+http://tvku.live:8888/movie/abi3/abi3/10823.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EUAUIu5lHFlkj5FRryohlH6CRO.jpg",Dawn of the Planet of the Apes
+http://tvku.live:8888/movie/abi3/abi3/3667.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHkjoAxmhp3Eau1h0Ir7maKMwUz.jpg",Elysium
+http://tvku.live:8888/movie/abi3/abi3/3058.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg",Extinction - 2018
+http://tvku.live:8888/movie/abi3/abi3/27278.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9c5vKUX7MB1yixVp0ZFAUDRTaeE.jpg",Flash Gordon - 1980
+http://tvku.live:8888/movie/abi3/abi3/9648.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt2W7P5uWNqjcZJ4Z3lgYgR3oIY.jpg",Ghost Source Zero - 2017
+http://tvku.live:8888/movie/abi3/abi3/26301.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg",Godzilla: King of the Monsters
+http://tvku.live:8888/movie/abi3/abi3/3075.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPxtxhB2Fy9ihVqtBtNGHmknJqV.jpg",Gravity
+http://tvku.live:8888/movie/abi3/abi3/3076.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrMAmjbexi6a0lUKT3LgBD3kpy8.jpg",In the Aisles
+http://tvku.live:8888/movie/abi3/abi3/3958.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZNR61QKQ27ikg2vNnqPQ7YS0Oc.jpg",Interpreters (2019)
+http://tvku.live:8888/movie/abi3/abi3/29808.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guJ97r5RGa1IoWCAvB0yypB2K8t.jpg",Parasyte: Part 1 - 2014
+http://tvku.live:8888/movie/abi3/abi3/26571.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qO8zQ9dSADWiwRnR7oCOsPDuOom.jpg",Parasyte: Part 2 - 2015
+http://tvku.live:8888/movie/abi3/abi3/26560.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUpto7r2XwoM5eW7MUvd8hl1etB.jpg",Predator - 1987
+http://tvku.live:8888/movie/abi3/abi3/14778.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1ku6nZmy3XEtPWA3HnrQ4zuJRk.jpg",Project Ithaca
+http://tvku.live:8888/movie/abi3/abi3/3717.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYio7FY9fDsH2DF9utAbK0J94Lc.jpg",Proximity (2020)
+http://tvku.live:8888/movie/abi3/abi3/29935.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iKMpfASZEYvraBbVSlCkrg6qco.jpg",Rabid - 2019
+http://tvku.live:8888/movie/abi3/abi3/11974.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",Ready Player One
+http://tvku.live:8888/movie/abi3/abi3/8773.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfbM8WpjP2J9y2dcjGYZHu0Vbw6.jpg",Sea Fever - 2019
+http://tvku.live:8888/movie/abi3/abi3/29454.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nxewN7l5XGxDqCcGkLaXJ3ljdz.jpg",Sharknado - 2013
+http://tvku.live:8888/movie/abi3/abi3/26312.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRan2aHPSR01dgu8tT7FU0yjv7.jpg",Snatchers - 2019
+http://tvku.live:8888/movie/abi3/abi3/25031.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDL2ryJ0sV2bmjgshVgJb3qzvwp.jpg",Teenage Mutant Ninja Turtles - 2014
+http://tvku.live:8888/movie/abi3/abi3/9115.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JU9ytZJyR3zmClGmVm9q4Geqbd.jpg",Terminator Genisys
+http://tvku.live:8888/movie/abi3/abi3/4413.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JU9ytZJyR3zmClGmVm9q4Geqbd.jpg",Terminator Genisys - 2015
+http://tvku.live:8888/movie/abi3/abi3/9487.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDdTcVfZBBpcg9H4tQLDlibrPLk.jpg",Terminus
+http://tvku.live:8888/movie/abi3/abi3/3738.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezWGskPY5x7GaglTTRN4Fugfb8.jpg",The Avengers
+http://tvku.live:8888/movie/abi3/abi3/8955.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkG0xsFoony3JhCPmP7V4JkN9hB.jpg",The Dustwalker - 2019
+http://tvku.live:8888/movie/abi3/abi3/27483.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLJdwmzrHFjFwI5lvYAT1gcpRuA.jpg",The Hunger Games
+http://tvku.live:8888/movie/abi3/abi3/3327.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCQ4e8klADtzoa6bL7XLPnjiUIg.jpg",The Incredible Hulk
+http://tvku.live:8888/movie/abi3/abi3/3329.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woo56L6LYYoM89DYBCU2C6LO1at.jpg",The Wandering Earth - 2019
+http://tvku.live:8888/movie/abi3/abi3/26324.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxFa0pQUTasf6AZIPZ0faCvp10b.jpg",Transference - 2020
+http://tvku.live:8888/movie/abi3/abi3/26952.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykIZB9dYBIKV13k5igGFncT5th6.jpg",Transformers: Age of Extinction - 2014
+http://tvku.live:8888/movie/abi3/abi3/9249.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVISXAXDYhjQCfu50QZeCCzzbPv.jpg",Transformers: Revenge of the Fallen
+http://tvku.live:8888/movie/abi3/abi3/4035.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVISXAXDYhjQCfu50QZeCCzzbPv.jpg",Transformers: Revenge of the Fallen - 2009
+http://tvku.live:8888/movie/abi3/abi3/9247.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOdiHaRjeTmHG67e5B7md2Q1cq.jpg",Tremors: A Cold Day in Hell - 2018
+http://tvku.live:8888/movie/abi3/abi3/26235.mp4
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",Venom
+http://tvku.live:8888/movie/abi3/abi3/3848.mkv
+#EXTINF:-1 group-title="Sci-fi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFxrGOiOddg3iVfAhGrBsIzUp3M.jpg",Volcano - 1997
+http://tvku.live:8888/movie/abi3/abi3/10903.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNlV5FhDZ1PjxSv2aqTPS30GEon.jpg",22 Jump Street
+http://tvku.live:8888/movie/abi3/abi3/4238.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNlV5FhDZ1PjxSv2aqTPS30GEon.jpg",22 Jump Street - 2014
+http://tvku.live:8888/movie/abi3/abi3/9253.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcJz5j4xo6YB7BHL72taslHuF2Z.jpg",Arkansas - 2020
+http://tvku.live:8888/movie/abi3/abi3/29617.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhflodbAhPvLgK5MUFPtBzXWF32.jpg",Bon Cop Bad Cop 2 - 2017
+http://tvku.live:8888/movie/abi3/abi3/25515.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i07ymbqHaIuSAU5GVpW75O8O1hE.jpg",Brochevarevaru Ra - 2019
+http://tvku.live:8888/movie/abi3/abi3/11986.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcnznSvHqAcLJ9Cm6XM202gS7yO.jpg",Brother
+http://tvku.live:8888/movie/abi3/abi3/4400.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5OL0b9bfMYlp38qNH0MZolB6Oy.jpg",Brotherhood
+http://tvku.live:8888/movie/abi3/abi3/4014.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Qu6aZYCOy3iqIeZVecLjrkFDBU.jpg",By the Gun
+http://tvku.live:8888/movie/abi3/abi3/4395.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75gDv38UgRtAukSxNXcjatyQmEa.jpg",Capone (2020)
+http://tvku.live:8888/movie/abi3/abi3/29814.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rSsBx6VcZOh3rKI9DqBc4HmW6T.jpg",Cass - 2008
+http://tvku.live:8888/movie/abi3/abi3/11459.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYr2hroPXEmsAac92pqcj5XbGSt.jpg",Chameleon (2019)
+http://tvku.live:8888/movie/abi3/abi3/29927.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qbgaZothXrCMohpY7CzsMcZeMo.jpg",Cold Moon
+http://tvku.live:8888/movie/abi3/abi3/3665.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLZ2AJFLtMoAAAD54mbT4exj1Wp.jpg",Cure (1997)
+http://tvku.live:8888/movie/abi3/abi3/29782.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoEcGPV7zDG4onmW5WNFNzgrAY9.jpg",Day and Night - 2019
+http://tvku.live:8888/movie/abi3/abi3/29647.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23S0NEXXOMhhXhF566Pw5sx7hnZ.jpg",Earth and Blood - 2020
+http://tvku.live:8888/movie/abi3/abi3/29628.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaHojTGfidOUfON6DGY14qUqATj.jpg",Faster
+http://tvku.live:8888/movie/abi3/abi3/4040.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b44kGCtUi0vl0oCD6BGulwMA5lE.jpg",Fugitive at 17 - 2012
+http://tvku.live:8888/movie/abi3/abi3/28641.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6DJXJU3HzX24Ij3VWg5MfVGHrI.jpg",Good Time - 2017
+http://tvku.live:8888/movie/abi3/abi3/26439.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",gorilla
+http://tvku.live:8888/movie/abi3/abi3/4148.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3LC4kI8azbeuHRGgDdWo6VBCdX.jpg",Green Street Hooligans - 2005
+http://tvku.live:8888/movie/abi3/abi3/11449.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1QRG9qZzuuJe4JTTpe4jlnQ5tt.jpg",Hannibal Rising - 2007
+http://tvku.live:8888/movie/abi3/abi3/14981.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGMkLo7FDgQikYwFJSlbc49ewVU.jpg",Hit-and-Run Squad (2019)
+http://tvku.live:8888/movie/abi3/abi3/29755.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FsSUtjexq7h0lriE2wDJEOG4uT.jpg",I.D. - 1995
+http://tvku.live:8888/movie/abi3/abi3/11460.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaLbKxjHaOkY7lT6jmsS1lsRocy.jpg",In the Fade - 2017
+http://tvku.live:8888/movie/abi3/abi3/29290.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6wYRuvk1lf60R4SmWETfdUvGsm.jpg",Inside Man
+http://tvku.live:8888/movie/abi3/abi3/4731.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mUqHJG7ZiGwZYIylczFCsRPbXM.jpg",Jigsaw
+http://tvku.live:8888/movie/abi3/abi3/3106.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",Joker
+http://tvku.live:8888/movie/abi3/abi3/4250.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtfS7y2XQ0vjTrm6khq508N0Ehk.jpg",King of Thieves
+http://tvku.live:8888/movie/abi3/abi3/3114.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZeniiG0nbyOoar1LODpO23EzSr.jpg",Masquerade Hotel - 2019
+http://tvku.live:8888/movie/abi3/abi3/28565.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2E3DwfiKssVWlRfFkps82PYk8Qj.jpg",Money (2019)
+http://tvku.live:8888/movie/abi3/abi3/29754.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52XrkH7WhGnbTk47WPC3wrj4uXO.jpg",Nameless Gangster
+http://tvku.live:8888/movie/abi3/abi3/3707.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPKfxaWXNkVkHLSV2nb06RfvrSM.jpg",Papillon - 1973
+http://tvku.live:8888/movie/abi3/abi3/24574.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKkabVcVNKTTgsR4ElklI5bXDU1.jpg",Perfect Stranger - 2007
+http://tvku.live:8888/movie/abi3/abi3/26317.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9C3VMy9HZ1VBhVHTadqg7pFh2ac.jpg",Road to Perdition - 2002
+http://tvku.live:8888/movie/abi3/abi3/10756.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7AxKPPCtZyrGQKvxzn5zTQ8wFm.jpg",Rumble in the Bronx
+http://tvku.live:8888/movie/abi3/abi3/8898.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zw8IL4zEPjkh8Aysdcd0FwGMb0.jpg",Se7en - 1995
+http://tvku.live:8888/movie/abi3/abi3/9649.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psB1Zb6sqnzHyCgtJrEJqphflVx.jpg",Hear No Evil - 1989
+http://tvku.live:8888/movie/abi3/abi3/10757.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHV60wGXvvkMR9ebVO5UWvxL716.jpg",Swimming Pool - 2003
+http://tvku.live:8888/movie/abi3/abi3/24717.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKj3DNThu3525pox53lxT9RG0F5.jpg",The Art of War - 2000
+http://tvku.live:8888/movie/abi3/abi3/25215.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elf6HOIOAwMlxc4ZBsprEc5VQHc.jpg",The Corrupted - 2019
+http://tvku.live:8888/movie/abi3/abi3/26297.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDffYgWFiAfA7ztBW6R4LWdjXK6.jpg",The Exorcism of Emily Rose - 2005
+http://tvku.live:8888/movie/abi3/abi3/26258.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD7l55S7YDKwZ9GVfx1qkVCFyXm.jpg",The Ghost Who Walks - 2019
+http://tvku.live:8888/movie/abi3/abi3/11977.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg",The Hateful Eight
+http://tvku.live:8888/movie/abi3/abi3/3326.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",The Irishman - 2019
+http://tvku.live:8888/movie/abi3/abi3/9264.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg",The Mule - 2018
+http://tvku.live:8888/movie/abi3/abi3/26572.mkv
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whGnVyQuECiLXj0oftmtq77x2HZ.jpg",The Quarry - 2020
+http://tvku.live:8888/movie/abi3/abi3/29569.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBxD8oqUoNKEO2tDdGXgakfgfKK.jpg",The Refuge
+http://tvku.live:8888/movie/abi3/abi3/4248.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gOozJufKJ9WjcIs38KEs08Iq3D.jpg",Uncut Gems - 2019
+http://tvku.live:8888/movie/abi3/abi3/25336.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",Wind River - 2017
+http://tvku.live:8888/movie/abi3/abi3/14784.mp4
+#EXTINF:-1 group-title="Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQZa314NJP3ieMAj6CgPI1v7nUY.jpg",Witness - 1985
+http://tvku.live:8888/movie/abi3/abi3/27387.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pzN52wxBZ05EXBdoii1kqoIoD4.jpg",A Dog's Journey
+http://tvku.live:8888/movie/abi3/abi3/2986.mkv
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNx1kCtBoHQaIa4tXQ6zrp06w9X.jpg",Adventure Boyz (2019)
+http://tvku.live:8888/movie/abi3/abi3/29819.mkv
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbdGCkvLPxuSvfVwHDK4PmOqmIm.jpg",Asterix & Obelix: God Save Britannia - 2012
+http://tvku.live:8888/movie/abi3/abi3/26203.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWy5b64SoBXcMDdfgLyLZgIHSdv.jpg",Asterix & Obelix: Mission Cleopatra - 2002
+http://tvku.live:8888/movie/abi3/abi3/26205.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBKBTJUKHSagOlbwhQsiBbgZvgj.jpg",Asterix at the Olympic Games - 2008
+http://tvku.live:8888/movie/abi3/abi3/26208.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWqifoYuwLETmmasnGHO7xBjEtt.jpg",Beauty and the Beast
+http://tvku.live:8888/movie/abi3/abi3/3019.mkv
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqPx1XWs9T6ENBn0gA3NqO2zowv.jpg",Full Speed
+http://tvku.live:8888/movie/abi3/abi3/4460.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wsOnXAd5ysRWhFIyV3Z9JJilXM.jpg",Go! - 2020
+http://tvku.live:8888/movie/abi3/abi3/27300.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFC4cY9lBsZXTjrqvKrwqusXaa7.jpg",Jesus (2020)
+http://tvku.live:8888/movie/abi3/abi3/29963.mkv
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ivn2Ze0kWpFNXgow2itfkdQftT.jpg",Middle School: The Worst Years of My Life - 2016
+http://tvku.live:8888/movie/abi3/abi3/9646.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjEBV2Nkl7C0S3dyC0S2tRbr0jK.jpg",the Dog and the Clown - 2019
+http://tvku.live:8888/movie/abi3/abi3/11969.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",The Call of the Wild - 2020
+http://tvku.live:8888/movie/abi3/abi3/28140.mkv
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg",Timmy Failure: Mistakes Were Made - 2020
+http://tvku.live:8888/movie/abi3/abi3/25034.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJGAUwBVql7dYGfAOpYYe0EmqZ7.jpg",Wish Man - 2019
+http://tvku.live:8888/movie/abi3/abi3/26221.mp4
